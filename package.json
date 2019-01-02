@@ -1,0 +1,8 @@
+{
+  "name": "apptest",
+  "version": "1.0.0",
+  "description": "app test",
+  "main": "index.js",
+  "author": "Fei",
+  "license": "MIT"
+}
